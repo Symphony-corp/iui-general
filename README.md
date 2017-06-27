@@ -1,6 +1,6 @@
 # iui-general
 
-[iui-general Examples](http://medseek-engineering.github.io/iui-general/style-guide/ "iui-general Examples")
+[iui-general Examples](http://Symphony-corp.github.io/iui-general/style-guide/ "iui-general Examples")
 
 
 ## Installation (with Influence Health ui-core)
@@ -9,7 +9,7 @@ Add to package.json:
 ```javascript
 "dependencies": {
     ...
-    "iui-general": "git+ssh://git@github.com:medseek-engineering/iui-general.git"
+    "iui-general": "git+ssh://git@github.com:Symphony-corp/iui-general.git"
 }
 ```
 
@@ -27,7 +27,7 @@ import iui-general.scss in your `main.scss` file
 
 ```sass
 // Place your variable overrides above this line. A full list of variables can be found here:
-// https://github.com/medseek-engineering/iui-general/blob/master/lib/src/_iui-variables.scss
+// https://github.com/Symphony-corp/iui-general/blob/master/lib/src/_iui-variables.scss
 @import iui-general;
 ```
 
@@ -86,7 +86,7 @@ iui-label-indicator is a small circle dot indicator with a question mark that is
 
 ### 1.0.3
 
-Moved alerts to [iui-alerts](https://github.com/medseek-engineering/iui-alerts)
+Moved alerts to [iui-alerts](https://github.com/Symphony-corp/iui-alerts)
 
 ### 1.0.2
 
